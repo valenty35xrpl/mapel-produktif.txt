@@ -1,0 +1,5 @@
+kompetensi SDKD
+komunikasi daring sinkron
+komunikasi daring asinkron
+github
+git
