@@ -3,3 +3,5 @@ komunikasi daring sinkron
 - line
 komunikasi daring asinkron
 - email
+github
+git
