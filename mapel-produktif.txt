@@ -1,4 +1,4 @@
 mata pelajaran produktif
 simulasi dan komunkasi digital
-fisika
-dasar desain grafis
+desain dasar grafis 
+sistem komputer
