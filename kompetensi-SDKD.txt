@@ -4,4 +4,7 @@ komunikasi daring sinkron
 komunikasi daring asinkron
 - email
 github
+- membuat akun 
+- membuat repository 
 git
+- belum
