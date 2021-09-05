@@ -7,3 +7,4 @@ github
 - membuat akun 
 - membuat repository 
 git
+- belum
