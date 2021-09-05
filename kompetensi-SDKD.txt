@@ -1,5 +1,5 @@
 kompetensi SDKD
 komunikasi daring sinkron
+- line
 komunikasi daring asinkron
-github
-git
+- email
